@@ -1,0 +1,20 @@
+RenaissanceClientID,SchoolYear,SchoolYearStartDate,SchoolYearEndDate,StudentSourcedID,StudentIdentifier,StudentFirstName,StudentMiddleName,StudentLastName,Gender,BirthDate,MultiRace,HispanicOrLatino,AmericanIndianOrAlaskaNative,Asian,BlackOrAfricanAmerican,NativeHawaiianOrOtherPacificIslander,White,CurrentGrade,EnrollmentStatus,DistrictName,AssessmentNumber,AssessmentType,AssessmentStatus,DeactivationReason,GradePlacement,Grade,ExtraTime,Audio,ScaledScore,StandardErrorOfMeasurement,GradeEquivalent,PercentileRank
+85367,2022-2023,00:00.0,00:00.0,11,21,Juan,Domingo,Peron,M,03-11-99,No,Si,No,No,Yes,No,No,5,Enrolled,Bibb County School District,4,Enterprise,Active,,3.71,3,No,,556,,3.6,39
+85367,2023-2024,00:00.0,00:00.0,11,21,Juan,Domingo,Peron,m,03-11-99,No,Obvio,No,No,Yes,No,No,5,Enrolled,Bibb County School District,3,Enterprise,Active,,4.93,4,No,,612,,4.2,29
+85367,2020-2021,00:00.0,00:00.0,11,21,Juan,Domingo,Peron,m,03-11-99,No,Mas vale,No,No,Yes,No,No,5,Enrolled,Bibb County School District,3,Enterprise,Active,,1.81,1,No,,358,,1.7,40
+85367,2022-2023,00:00.0,00:00.0,11,21,Juan,Domingo,Peron,M,03-11-99,No,Yes,No,No,Yes,No,No,5,Enrolled,Bibb County School District,1,Enterprise,Active,,3,3,No,,536,,3.4,66
+85367,2022-2023,00:00.0,00:00.0,11,21,John,,Doe,u,07-05-02,No,No,No,No,Yes,No,No,5,Enrolled,Bibb County School District,2,Enterprise,Active,,3.11,3,No,,534,,3.3,60
+85367,2023-2024,00:00.0,00:00.0,11,21,John,,Doe,u,07-05-02,No,No,No,No,Yes,No,No,5,Enrolled,Bibb County School District,1,Enterprise,Active,,4.02,4,No,,587,,3.9,47
+85367,2020-2021,00:00.0,00:00.0,11,21,John,,Doe,U,07-05-02,No,No,No,No,Yes,No,No,5,Enrolled,Bibb County School District,2,Enterprise,Active,,1.33,1,No,,344,,1.6,64
+85367,2022-2023,00:00.0,00:00.0,11,21,John,,Doe,U,07-05-02,No,No,No,No,Yes,No,No,5,Enrolled,Bibb County School District,3,Enterprise,Active,,3.43,3,No,,508,,3,32
+85367,2021-2022,00:00.0,00:00.0,11,21,John,,Doe,U,07-05-02,No,No,No,No,Yes,No,No,5,Enrolled,Bibb County School District,4,Enterprise,Active,,2.82,2,No,,488,,2.8,46
+85367,2021-2022,00:00.0,00:00.0,11,21,John,,Doe,U,07-05-02,No,No,No,No,Yes,No,No,5,Enrolled,Bibb County School District,2,Enterprise,Active,,2.3,2,No,,344,,1.6,11
+85367,2021-2022,00:00.0,00:00.0,11,21,Juan,Manuel,De Rosas,m,04-03-01,No,No,No,No,Yes,No,No,5,Enrolled,Bibb County School District,1,Enterprise,Active,,2,2,No,,365,,1.7,26
+85367,2021-2022,00:00.0,00:00.0,11,21,Juan,Manuel,De Rosas,M,04-03-01,No,No,No,No,Yes,No,No,5,Enrolled,Bibb County School District,3,Enterprise,Active,,2.64,2,No,,516,,3.1,69
+85367,2023-2024,00:00.0,00:00.0,11,21,Juan,Manuel,De Rosas,m,04-03-01,No,No,No,No,Yes,No,No,5,Enrolled,Bibb County School District,2,Enterprise,Active,,4.43,4,No,,563,,3.6,25
+85367,2020-2021,00:00.0,00:00.0,11,21,Juan,Manuel,De Rosas,M,04-03-01,No,No,No,No,Yes,No,No,5,Enrolled,Bibb County School District,1,Enterprise,Active,,1.05,1,No,,295,,1.2,61
+85367,2021-2022,00:00.0,00:00.0,11,21,Dafne,,Asciutto,f,19-12-01,No,No,No,No,No,No,No,8,Enrolled,Bibb County School District,1,Enterprise,Active,,7.44,7,No,,561,,3.6,3
+85367,2020-2021,00:00.0,00:00.0,11,21,Dafne,,Asciutto,F,19-12-01,No,No,No,No,No,No,No,5,Enrolled,Bibb County School District,1,Enterprise,Active,,1.05,1,No,,485,,2.8,98
+85367,2021-2022,00:00.0,00:00.0,11,21,Dafne,,Asciutto,f,19-12-01,No,No,No,No,No,No,No,5,Enrolled,Bibb County School District,4,Enterprise,Active,,2.83,2,No,,605,,4.1,90
+85367,2020-2021,00:00.0,00:00.0,11,21,Dafne,,Asciutto, f,19-12-01,No,No,No,No,No,No,No,5,Enrolled,Bibb County School District,4,Enterprise,Active,,1.8,1,No,,471,,2.7,84
+85367,2023-2024,00:00.0,00:00.0,11,21,Dafne,,Asciutto,F,19-12-01,No,No,No,No,No,No,No,5,Enrolled,Bibb County School District,1,Enterprise,Active,,4.03,4,No,,716,,5.8,93
