@@ -1,4 +1,4 @@
-def serve(host, port, debug=True):
+def serve(host: str, port: int, debug=True):
     """
     Serve the app using Flask
     
