@@ -9,12 +9,12 @@ Feature: Teacher login
 
   Scenario: User selects the role
     Given the user is on the /login page
-    When the users open the role dropdown
+    When the user open the role dropdown
     Then the user sees all available roles
 
   Scenario: User selects the role
     Given the user is on the /login page
-    When the users types a username
+    When the user types a username
     And the user types a password
     Then both are checked against the database
     And the user is then an authenticated user

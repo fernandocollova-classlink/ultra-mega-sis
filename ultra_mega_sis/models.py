@@ -5,7 +5,7 @@ from sqlalchemy import ForeignKey, Integer, String
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
 
 
-class UserTypes(Enum):
+class Roles(Enum):
     USER = "user"
     TEACHER = "teacher"
 
