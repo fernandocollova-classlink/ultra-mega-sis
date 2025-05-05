@@ -1,4 +1,4 @@
-Feature: Teacher login
+Feature: user login
   Scenario: User goes to login page
     Given the user is on the /login page
     then the user sees a login form
